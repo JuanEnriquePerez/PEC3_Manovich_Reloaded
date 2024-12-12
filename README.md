@@ -13,7 +13,7 @@ Asignatura: Cultura Digital
 
 En nuestro día a día los medios analógicos y digitales son cada vez más híbridos entre ellos, la hibridación de medios está siendo el punto clave para poder unir ambos mundos y obtener nuevas formas de comunicación, información y entretenimiento. A lo largo de este documento veremos un par de ejmplos de hibridación referentes al mundo de la música. 
 
-
+> "La hibridación ocurre cuando elementos de diferentes medios o disciplinas se integran para formar nuevas combinaciones que son más que la suma de sus partes." - Lev Manovich, *El Software Toma el Mando*.
 
 ## Re-descubriendo la hibridacion: Caso 1
 
