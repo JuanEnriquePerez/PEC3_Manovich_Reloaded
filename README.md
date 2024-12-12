@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC03_Juan_Enrique
 
 ### Recurso de aprendizaje de Cultura Digital 
 
