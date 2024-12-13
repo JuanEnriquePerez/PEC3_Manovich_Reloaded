@@ -24,12 +24,26 @@ Manovich nos ayuda a diferenciar entre la hibridación y la multimedia destacana
 
 
 ## Caso 1: Ableton Live
-Ableton Live es un claro ejemplo de la hibridación según la describe Manovich. Este DAW (Digital Audio Workstation) permite integrar sonidos de intrumentos analógicos grabados como guitarras o sintetizadores, loops, efectos digitales y algunos intrumentos virtuales en un solo entorno de producción. 
-Según Manovich, la hibridación va más allá de la simple coexistencia de elementos (como en la multimedia), ya que fusiona y combina de manera orgánica las capacidades de distintos medios para generar algo completamente nuevo (El software toma el mando)
-Un ejmplo claro de esta hibridación en Ableton Live sería el hecho de grabar un bajo o una guitarra física, tocada por una persona y así dentro del propio DAW poder combinarla con unos ritmos de batería creado por un Drum Rack digital, el cual simularía a una batería. 
-Este proceso no solo mezcla medios, sino que también reconfigura los lenguajes tradicionales de producción musical. Esta transformación de una señal analógica en el plano digital mediante ciertos efectos como reverbs o delays sería el ejemplo más claro de la hibridación. 
+Ableton Live es un claro ejemplo de la hibridación según la describe Manovich. Este DAW *(Digital Audio Workstation)* permite integrar sonidos de instrumentos analógicos grabados como guitarras o sintetizadores, loops, efectos digitales y algunos instrumentos virtuales en un solo entorno de producción. 
+Según Manovich, la hibridación va más allá de la simple coexistencia de elementos (como en la multimedia), ya que fusiona y combina de manera orgánica las capacidades de distintos medios para generar algo completamente nuevo *(El software toma el mando)*
+Un ejemplo claro de esta hibridación en Ableton Live sería el hecho de grabar un bajo o una guitarra física, tocada por una persona y así dentro del propio DAW poder combinarla con unos ritmos de batería creado por un Drum Rack digital, el cual simularía a una batería. 
+Este proceso no solo mezcla medios, sino que también reconfigura los lenguajes tradicionales de producción musical. Esta transformación de una señal analógica en el plano digital mediante ciertos efectos como *reverbs* o *delays* sería el ejemplo más claro de la hibridación. 
 
 https://www.youtube.com/watch?v=QFCV6EkqRQs&ab_channel=Ableton
+
+##Innovación y estética
+
+Ableton Live no solo facilita la composición y grabación, sino que también introduce una nueva estética de la música híbrida. Los productores pueden trabajar con capas y clips que funcionan de forma no lineal, rompiendo con las estructuras  tradicionales de la producción musical. 
+
+>"El problema no es que múltiples medios converjan en un “monomedio” (no lo hacen). El problema es exactamente el opuesto: se multiplican a tal punto que el término pierde su utilidad." - Lev Manovich, *El Software Toma el Mando*.
+
+##Medios de hibridación de Ableton Live
+Como Manovich sugiere, el software no solo reproduce medios previos, sino que los amplifica y transforma, generando una nueva "dimensión cultural". Ableton ejemplifica esto en varios aspectos:
+- **Integración de instrumentos acústicos con efectos digitales**: En Ableton Live, un usuario puede grabar un instrumento acústico, como una guitarra o un piano, y procesar el sonido con efectos digitales.
+- **Creación de audiovisuales interactivos con Max for Live**: Max for Live, una extensión de Ableton Live, permite a los usuarios crear herramientas y dispositivos personalizados, incluyendo aquellos que sincronizan audio y video en tiempo real.
+
+
+
 
 
 
