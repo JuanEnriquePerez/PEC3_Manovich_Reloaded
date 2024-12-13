@@ -18,16 +18,20 @@ En nuestro día a día los medios analógicos y digitales son cada vez más híb
 ## Reconocer la hibridación según Manovich
 
 Manovich nos ayuda a diferenciar entre la hibridación y la multimedia destacanado ciertos puntos de la primera. 
-- **En la hibridación los lenguajes se unen, intercambian propiedades y generan nuevas estructuras. 
-- **Unir técnicas de diferentes mundos en un software es uno de los pilares fundamentales de la hibridación. 
-- **Los softwares en los cuales hay hibridación están en constante cambio y evolución confrome se desarrollan nuevas técnicas. 
+- En la hibridación los lenguajes se unen, intercambian propiedades y generan nuevas estructuras. 
+- Unir técnicas de diferentes mundos en un software es uno de los pilares fundamentales de la hibridación. 
+- Los softwares en los cuales hay hibridación están en constante cambio y evolución confrome se desarrollan nuevas técnicas. 
 
 
 ## Caso 1: Ableton Live
 Ableton Live es un claro ejemplo de la hibridación según la describe Manovich. Este DAW (Digital Audio Workstation) permite integrar sonidos de intrumentos analógicos grabados como guitarras o sintetizadores, loops, efectos digitales y algunos intrumentos virtuales en un solo entorno de producción. 
 Según Manovich, la hibridación va más allá de la simple coexistencia de elementos (como en la multimedia), ya que fusiona y combina de manera orgánica las capacidades de distintos medios para generar algo completamente nuevo (El software toma el mando)
 Un ejmplo claro de esta hibridación en Ableton Live sería el hecho de grabar un bajo o una guitarra física, tocada por una persona y así dentro del propio DAW poder combinarla con unos ritmos de batería creado por un Drum Rack digital, el cual simularía a una batería. 
-Este proceso no solo mezcla medios, sino que también reconfigura los lenguajes tradicionales de producción musical.
+Este proceso no solo mezcla medios, sino que también reconfigura los lenguajes tradicionales de producción musical. Esta transformación de una señal analógica en el plano digital mediante ciertos efectos como reverbs o delays sería el ejemplo más claro de la hibridación. 
+
+https://www.youtube.com/watch?v=QFCV6EkqRQs&ab_channel=Ableton
+
+
 
 
 
