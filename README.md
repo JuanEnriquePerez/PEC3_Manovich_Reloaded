@@ -31,17 +31,25 @@ Este proceso no solo mezcla medios, sino que también reconfigura los lenguajes 
 
 https://www.youtube.com/watch?v=QFCV6EkqRQs&ab_channel=Ableton
 
-##Innovación y estética
-
 Ableton Live no solo facilita la composición y grabación, sino que también introduce una nueva estética de la música híbrida. Los productores pueden trabajar con capas y clips que funcionan de forma no lineal, rompiendo con las estructuras  tradicionales de la producción musical. 
 
 >"El problema no es que múltiples medios converjan en un “monomedio” (no lo hacen). El problema es exactamente el opuesto: se multiplican a tal punto que el término pierde su utilidad." - Lev Manovich, *El Software Toma el Mando*.
 
-##Medios de hibridación de Ableton Live
+## Medios de hibridación de Ableton Live
 Como Manovich sugiere, el software no solo reproduce medios previos, sino que los amplifica y transforma, generando una nueva "dimensión cultural". Ableton ejemplifica esto en varios aspectos:
 - **Integración de instrumentos acústicos con efectos digitales**: En Ableton Live, un usuario puede grabar un instrumento acústico, como una guitarra o un piano, y procesar el sonido con efectos digitales.
 - **Creación de audiovisuales interactivos con Max for Live**: Max for Live, una extensión de Ableton Live, permite a los usuarios crear herramientas y dispositivos personalizados, incluyendo aquellos que sincronizan audio y video en tiempo real.
 
+## Impacto en la producción
+
+Ableton Live ha conseguido que la producción sea una combinación entre elementos analógicos como pueden ser instrumentos, o algunos efectos analógicos que existen, podamos combinarlos junto a efectos e instrumentos que encontramos en el software. Este impacto podríamos diferenciarlo en diferentes elementos:
+- **Producción democratizada**:Su enfoque intuitivo y flexible permite a artistas de diferentes niveles de experiencia combinar instrumentos tradicionales con técnicas digitales avanzadas. Manovich destaca cómo la hibridación amplía las capacidades creativas al unir disciplinas y tecnologías en nuevas estructuras. 
+- **Nuevas formas de colaboraciónNuevas formas de colaboración: El software ha facilitado una colaboración global entre artistas. Los artistas pueden conectar con productores de cualquier parte del mundo y así compartir proyectos, grabaciones, loops y un largo etcétera de contenido. Esta mezcla entre lo local y lo global es un reflejo directo de la hibridación cultural y tecnológica que Manovich identifica como una de las principales características del software contemporáneo. *El software toma el mando*
+- **Transformación de la experiencia en vivo**: Gracias a su ventana de sesión y su integración con diferentes controladoras MIDI como la Push, Ableton ha conseguido revolucionar la manera de interacción público - artista. Los artistas pueden crear diferentes atmósferas durante su show, ya que tienen el total control a la hora de lanzar sus canciones o efectos. Esto ejemplifica lo que Manovich denomina "amplificación cultural" del software, donde las herramientas digitales transforman la relación entre los artistas y sus audiencias.
+
+## Conclusión
+
+Ableton Live, como plataforma de hibridación, está dejando una gran huella en la cultura contemporánea. Desde democratizar la producción musical hasta fomentar la creación de nuevos géneros y transformar las presentaciones en vivo, este DAW cuenta con  los principios de hibridación propuestos por Manovich, sirviendo como un puente entre lo analógico y lo digital, lo tradicional y lo innovador.
 
 
 
