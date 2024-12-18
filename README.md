@@ -5,7 +5,7 @@ Autor: Juan Enrique Pérez Córdoba
 
 Asignatura: Cultura Digital
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+ 
 
 
 
@@ -24,6 +24,7 @@ Manovich nos ayuda a diferenciar entre la hibridación y la multimedia destacana
 
 
 ## Caso 1: Ableton Live
+![Ableton Live](https://cdn.connectif.cloud/eu6/6215f964ecff51d9a99f7f01/images/originals/2aeefdbb-0fa0-4e13-81ba-3b1a8d22da3e-pre-black-friday_pop-up_669x350.jpg)
 Ableton Live es un claro ejemplo de la hibridación según la describe Manovich. Este DAW *(Digital Audio Workstation)* permite integrar sonidos de instrumentos analógicos grabados como guitarras o sintetizadores, loops, efectos digitales y algunos instrumentos virtuales en un solo entorno de producción. 
 Según Manovich, la hibridación va más allá de la simple coexistencia de elementos (como en la multimedia), ya que fusiona y combina de manera orgánica las capacidades de distintos medios para generar algo completamente nuevo *(El software toma el mando)*
 Un ejemplo claro de esta hibridación en Ableton Live sería el hecho de grabar un bajo o una guitarra física, tocada por una persona y así dentro del propio DAW poder combinarla con unos ritmos de batería creado por un Drum Rack digital, el cual simularía a una batería. 
@@ -44,7 +45,7 @@ Como Manovich sugiere, el software no solo reproduce medios previos, sino que lo
 
 Ableton Live ha conseguido que la producción sea una combinación entre elementos analógicos como pueden ser instrumentos, o algunos efectos analógicos que existen, podamos combinarlos junto a efectos e instrumentos que encontramos en el software. Este impacto podríamos diferenciarlo en diferentes elementos:
 - **Producción democratizada**:Su enfoque intuitivo y flexible permite a artistas de diferentes niveles de experiencia combinar instrumentos tradicionales con técnicas digitales avanzadas. Manovich destaca cómo la hibridación amplía las capacidades creativas al unir disciplinas y tecnologías en nuevas estructuras. 
-- **Nuevas formas de colaboraciónNuevas formas de colaboración: El software ha facilitado una colaboración global entre artistas. Los artistas pueden conectar con productores de cualquier parte del mundo y así compartir proyectos, grabaciones, loops y un largo etcétera de contenido. Esta mezcla entre lo local y lo global es un reflejo directo de la hibridación cultural y tecnológica que Manovich identifica como una de las principales características del software contemporáneo. *El software toma el mando*
+- **Nuevas formas de colaboraciónNuevas formas de colaboración**: El software ha facilitado una colaboración global entre artistas. Los artistas pueden conectar con productores de cualquier parte del mundo y así compartir proyectos, grabaciones, loops y un largo etcétera de contenido. Esta mezcla entre lo local y lo global es un reflejo directo de la hibridación cultural y tecnológica que Manovich identifica como una de las principales características del software contemporáneo. *El software toma el mando*
 - **Transformación de la experiencia en vivo**: Gracias a su ventana de sesión y su integración con diferentes controladoras MIDI como la Push, Ableton ha conseguido revolucionar la manera de interacción público - artista. Los artistas pueden crear diferentes atmósferas durante su show, ya que tienen el total control a la hora de lanzar sus canciones o efectos. Esto ejemplifica lo que Manovich denomina "amplificación cultural" del software, donde las herramientas digitales transforman la relación entre los artistas y sus audiencias.
 
 ## Conclusión
