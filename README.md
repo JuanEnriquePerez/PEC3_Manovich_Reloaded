@@ -73,7 +73,8 @@ Desde la pre-producción, Biophilia fue diseñado como un proyecto multimedia, e
 El impacto de Biophilia trasciende lo estrictamente musical. Este proyecto también se concibió como una herramienta educativa, utilizada en programas escolares para enseñar ciencia y música. Gracias a esta combinación con los medios de hibridación anteriormente mencionados vamos a describir como se encuentran a lo largo del álbum.
 - **Aplicaciones interactivas**: La aplicación para la canción “Virus” permite a los usuarios observar e interactuar con una animación que representa la infección de una célula. Esta interactividad combina elementos visuales, educativos y sonoros en una experiencia única. Según Manovich, la hibridación consiste en fusionar lenguajes y formatos de medios que antes operaban de manera separada *(“El software toma el mando”)*, algo que se evidencia claramente en estas aplicaciones.
 - **Realidad aumentada**: En los diferentes videoclips la música se muestra junto a un videoclip que incluye diferentes elementos como la ealidad aumentada. Por ejmplo en “Crystalline”, Björk utiliza animaciones que representan estructuras moleculares y paisajes abstractos, conectando visualmente la música con conceptos científicos. Este tipo de hibridación permite que los oyentes experimenten la música en un nivel multisensorial, integrando ideas científicas con expresiones artísticas.
-- 
+- **Experiencias educativas inmersivas**: Estas experiencias combinaron explicaciones científicas con actividades interactivas en las diferentes aplicaciones que se podrían encontrar en Biophilia, haciendo que los participantes aprendieran sobre temas como la formación de cristales o los ecosistemas mientras exploraban la música. Este enfoque educativo refleja la capacidad de la hibridación para romper barreras entre disciplinas y conectar el arte con la pedagogía.
+- **Visuales en vivo avanzados**:
 
 
 
