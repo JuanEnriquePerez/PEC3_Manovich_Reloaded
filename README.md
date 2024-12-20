@@ -74,9 +74,10 @@ El impacto de Biophilia trasciende lo estrictamente musical. Este proyecto tambi
 - **Aplicaciones interactivas**: La aplicación para la canción “Virus” permite a los usuarios observar e interactuar con una animación que representa la infección de una célula. Esta interactividad combina elementos visuales, educativos y sonoros en una experiencia única. Según Manovich, la hibridación consiste en fusionar lenguajes y formatos de medios que antes operaban de manera separada *(“El software toma el mando”)*, algo que se evidencia claramente en estas aplicaciones.
 - **Realidad aumentada**: En los diferentes videoclips la música se muestra junto a un videoclip que incluye diferentes elementos como la ealidad aumentada. Por ejmplo en “Crystalline”, Björk utiliza animaciones que representan estructuras moleculares y paisajes abstractos, conectando visualmente la música con conceptos científicos. Este tipo de hibridación permite que los oyentes experimenten la música en un nivel multisensorial, integrando ideas científicas con expresiones artísticas.
 - **Experiencias educativas inmersivas**: Estas experiencias combinaron explicaciones científicas con actividades interactivas en las diferentes aplicaciones que se podrían encontrar en Biophilia, haciendo que los participantes aprendieran sobre temas como la formación de cristales o los ecosistemas mientras exploraban la música. Este enfoque educativo refleja la capacidad de la hibridación para romper barreras entre disciplinas y conectar el arte con la pedagogía.
-- **Visuales en vivo avanzados**:
+- **Visuales en vivo avanzados**: A lo largo de las diferentes presentaciones en vivo del álbum, se utilizó tecnología avanzada para sincronizar los visuales con los sonidos en tiempo real, generando una experiencia multimedia que desdibuja las fronteras entre la música, la performance y el arte visual. Este enfoque ilustra cómo el software amplifica y transforma las capacidades creativas tradicionales *(“El software toma el mando”)*.
 
-
+## Conclusión
+Biophilia de Björk es un claro ejemplo de la hibridación de medios según Lev Manovich. Al combinar aplicaciones interactivas, nuevos instrumentos, elementos visuales, educativos y tecnologías como la realidad aumentada, este proyecto redefine lo que puede ser un álbum musical en la era digital. A través de su enfoque innovador, Biophilia demuestra cómo el software no solo expande las posibilidades creativas, sino que también transforma la manera en que experimentamos y entendemos el arte.
 
 ### Referencias y Bibliografía
 
